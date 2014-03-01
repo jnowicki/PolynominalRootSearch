@@ -1,0 +1,13 @@
+c:\users\kuba\documents\visual studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\Polowienie_Sieczne.exe.config
+c:\users\kuba\documents\visual studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.Form1.resources
+c:\users\kuba\documents\visual studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.Properties.Resources.resources
+c:\users\kuba\documents\visual studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.csproj.GenerateResource.Cache
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\Polowienie_Sieczne.exe
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\Polowienie_Sieczne.pdb
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\ZedGraph.dll
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.exe
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\obj\Debug\Polowienie_Sieczne.pdb
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\ZedGraph.Web.dll
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\ZedGraph.xml
+C:\Users\Kuba\Documents\Visual Studio 2013\Projects\Polowienie_Sieczne\Polowienie_Sieczne\bin\Debug\ZedGraph.Web.xml
